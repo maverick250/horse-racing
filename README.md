@@ -32,7 +32,7 @@ horse-racing/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your_username/horse-racing.git
-   cd horse-racing```
+   cd horse-racing
 
 ## Explore the Notebooks
 
