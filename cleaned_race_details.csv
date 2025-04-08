@@ -1,0 +1,481 @@
+race_date,race_city,race_no,race_type,race_sex_group,race_age_group,race_race_group,race_length,race_track_type,race_track_condition,best_rating,best_rating_seconds
+2024-01-01,bursa,1,condition 2,undefined,3 years old,english,1400,dirt,good going,1.24.50,84.5
+2024-01-01,bursa,2,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.33.63,93.63
+2024-01-01,bursa,3,condition 3,female,3 years old,english,1200,dirt,good going,1.11.37,71.37
+2024-01-01,bursa,4,condition 4,undefined,4 years old and up,arabian,2000,dirt,good going,2.18.40,138.4
+2024-01-01,bursa,5,handicap 15,undefined,4 years old and up,english,1300,dirt,good going,1.18.11,78.11
+2024-01-01,bursa,6,condition 3,undefined,4 years old and up,english,1400,dirt,good going,1.24.50,84.5
+2024-01-01,bursa,7,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.33.63,93.63
+2024-01-01,bursa,8,condition-6,female,4 years old and up,english,1300,dirt,good going,1.18.11,78.11
+2024-01-01,bursa,9,handicap 14,female,4 years old and up,arabian,1800,dirt,good going,2.03.83,123.83
+2024-01-02,adana,1,condition 5,female,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-02,adana,2,handicap 21,undefined,4 years old and up,english,1900,dirt,good going,2.00.00,120.0
+2024-01-02,adana,3,condition 4,female,4 years old and up,english,1300,dirt,good going,1.18.98,78.98
+2024-01-02,adana,4,condition-6,female,3 years old,english,1300,dirt,good going,1.18.98,78.98
+2024-01-02,adana,5,maiden,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-02,adana,6,handicap 21,undefined,4 years old and up,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-02,antalya,1,condition 5,undefined,4 years old,arabian,1300,dirt,good going,1.27.60,87.6
+2024-01-02,antalya,2,handicap 13,undefined,3 years old,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-02,antalya,3,handicap 17,undefined,4 years old and up,english,1700,dirt (polytrack),good going,1.41.46,101.46
+2024-01-02,antalya,4,maiden,female,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-02,antalya,5,condition 4,undefined,4 years old and up,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-02,antalya,6,condition 3,undefined,3 years old,english,1400,dirt,good going,1.24.74,84.74
+2024-01-02,antalya,7,maiden,female,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-02,antalya,8,condition 2,undefined,4 years old and up,english,1500,dirt (polytrack),good going,1.29.01,89.01
+2024-01-03,i̇stanbul,1,condition 3,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-03,i̇stanbul,2,handicap 14,undefined,4 years old,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-03,i̇stanbul,3,handicap 16,female,4 years old and up,english,1200,dirt (polytrack),good going,1.09.93,69.93
+2024-01-03,i̇stanbul,4,maiden,undefined,4 years old,arabian,1400,dirt (polytrack),good going,1.31.22,91.22
+2024-01-03,i̇stanbul,5,handicap 15,female,3 years old,english,1200,dirt (polytrack),good going,1.09.93,69.93
+2024-01-03,i̇stanbul,6,handicap 16,undefined,4 years old and up,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-03,i̇stanbul,7,maiden,undefined,4 years old,arabian,1400,dirt (polytrack),good going,1.31.22,91.22
+2024-01-04,i̇zmir,1,sale 1,undefined,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-04,i̇zmir,2,handicap 13,undefined,4 years old,arabian,1600,dirt,good going,1.48.55,108.55
+2024-01-04,i̇zmir,3,maiden,female,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-04,i̇zmir,4,condition 4,undefined,4 years old and up,english,1900,dirt,good going,1.58.31,118.31
+2024-01-04,i̇zmir,5,condition 3,undefined,4 years old and up,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-04,i̇zmir,6,condition 3,female,4 years old,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-04,i̇zmir,7,maiden,female,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-04,kocaeli,1,condition 2,undefined,3 years old,english,1200,dirt,good going,1.11.66,71.66
+2024-01-04,kocaeli,2,condition 3,undefined,4 years old and up,english,1400,dirt,good going,1.23.67,83.67
+2024-01-04,kocaeli,3,condition 5,undefined,4 years old and up,english,1800,dirt,good going,1.53.68,113.68
+2024-01-04,kocaeli,4,handicap 16,undefined,4 years old and up,arabian,2000,dirt,good going,2.19.59,139.59
+2024-01-04,kocaeli,5,maiden,undefined,3 years old,english,1400,dirt,good going,1.23.67,83.67
+2024-01-04,kocaeli,6,handicap 15,female,4 years old and up,english,1800,dirt,good going,1.53.68,113.68
+2024-01-04,kocaeli,7,condition 4,undefined,4 years old and up,arabian,1500,dirt,good going,1.41.10,101.1
+2024-01-04,kocaeli,8,maiden,undefined,3 years old,english,1400,dirt,good going,1.23.67,83.67
+2024-01-04,kocaeli,9,condition 3,undefined,4 years old,arabian,1500,dirt,good going,1.41.10,101.1
+2024-01-05,i̇zmir,1,handicap 16,undefined,4 years old and up,english,2100,dirt,good going,2.12.31,132.31
+2024-01-05,i̇zmir,2,condition 5,undefined,4 years old and up,arabian,2000,dirt,good going,2.17.95,137.95
+2024-01-05,i̇zmir,3,condition 3,female,4 years old and up,english,1600,dirt,good going,1.38.10,98.1
+2024-01-05,i̇zmir,4,handicap 15,female,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-05,i̇zmir,5,condition 4,undefined,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-05,i̇zmir,6,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-05,antalya,1,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-05,antalya,2,condition 4,undefined,3 years old,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-05,antalya,3,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-05,antalya,4,condition 3,female,4 years old and up,arabian,1700,dirt (polytrack),good going,1.54.23,114.23
+2024-01-05,antalya,5,handicap 16,undefined,4 years old and up,english,1400,dirt,good going,1.24.74,84.74
+2024-01-05,antalya,6,condition 3,undefined,4 years old and up,arabian,2100,dirt,good going,2.30.23,150.23
+2024-01-05,antalya,7,condition 5,female,4 years old and up,english,1500,dirt (polytrack),good going,1.29.01,89.01
+2024-01-05,antalya,8,condition 4,female,4 years old,arabian,1400,dirt (polytrack),good going,1.31.84,91.84
+2024-01-05,antalya,9,handicap 14,undefined,4 years old and up,arabian,1300,dirt,good going,1.27.60,87.6
+2024-01-06,adana,1,condition 2,undefined,4 years old and up,arabian,1200,dirt,good going,1.20.89,80.89
+2024-01-06,adana,2,condition 3,undefined,4 years old and up,english,1300,dirt,good going,1.18.98,78.98
+2024-01-06,adana,3,handicap 15,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-06,adana,4,maiden,female,4 years old,arabian,1200,dirt,good going,1.20.89,80.89
+2024-01-06,adana,5,handicap 14,undefined,4 years old and up,english,1200,dirt,good going,1.12.20,72.2
+2024-01-06,adana,6,condition-8,undefined,4 years old and up,english,1400,dirt,good going,1.24.53,84.53
+2024-01-06,adana,7,condition 5,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-06,adana,8,condition 3,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-06,adana,9,maiden,female,4 years old,arabian,1200,dirt,good going,1.20.89,80.89
+2024-01-06,i̇stanbul,1,handicap 14,undefined,3 years old,english,1200,dirt (polytrack),good going,1.09.93,69.93
+2024-01-06,i̇stanbul,2,condition 3,undefined,4 years old,arabian,1400,dirt (polytrack),good going,1.31.22,91.22
+2024-01-06,i̇stanbul,3,handicap 15,undefined,4 years old and up,arabian,2200,dirt (polytrack),good going,2.30.12,150.12
+2024-01-06,i̇stanbul,4,maiden,undefined,4 years old,arabian,1300,dirt (polytrack),good going,1.23.86,83.86
+2024-01-06,i̇stanbul,5,condition 4,female,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-06,i̇stanbul,6,condition 3,female,4 years old and up,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-06,i̇stanbul,7,condition 3,undefined,4 years old and up,arabian,1400,dirt (polytrack),good going,1.31.22,91.22
+2024-01-06,i̇stanbul,8,handicap 15,undefined,4 years old and up,english,1300,dirt (polytrack),good going,1.15.99,75.99
+2024-01-07,adana,1,condition 4,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-07,adana,2,condition 4,undefined,4 years old and up,english,1400,dirt,good going,1.24.53,84.53
+2024-01-07,adana,3,maiden,undefined,4 years old,arabian,1900,dirt,good going,2.11.74,131.74
+2024-01-07,adana,4,handicap 13,undefined,3 years old,english,1200,dirt,good going,1.12.20,72.2
+2024-01-07,adana,5,condition-6,undefined,4 years old and up,english,1900,dirt,good going,2.00.00,120.0
+2024-01-07,adana,6,condition 5,female,4 years old and up,arabian,1300,dirt,good going,1.28.54,88.54
+2024-01-07,adana,7,condition 4,undefined,4 years old and up,arabian,2000,dirt,good going,2.20.77,140.77
+2024-01-07,adana,8,handicap 13,undefined,4 years old,arabian,1200,dirt,good going,1.20.89,80.89
+2024-01-07,i̇zmir,1,handicap 14,undefined,3 years old,english,1900,dirt,muddy,1.58.31,118.31
+2024-01-07,i̇zmir,2,condition 3,female,3 years old,english,1400,dirt,muddy,1.25.06,85.06
+2024-01-07,i̇zmir,3,condition 3,undefined,4 years old and up,english,1600,dirt,muddy,1.38.10,98.1
+2024-01-07,i̇zmir,4,condition 2,undefined,4 years old and up,arabian,1900,dirt,muddy,2.10.52,130.52
+2024-01-07,i̇zmir,5,condition-6,undefined,4 years old and up,arabian,1600,dirt,muddy,1.48.55,108.55
+2024-01-07,i̇zmir,6,condition 5,undefined,4 years old,arabian,1400,dirt,muddy,1.32.97,92.97
+2024-01-07,i̇zmir,7,maiden,undefined,4 years old,arabian,1600,dirt,muddy,1.48.55,108.55
+2024-01-07,i̇zmir,8,handicap 14,female,4 years old and up,english,1400,dirt,muddy,1.25.06,85.06
+2024-01-08,bursa,1,condition 4,undefined,4 years old,arabian,1400,dirt,moist,1.33.63,93.63
+2024-01-08,bursa,2,condition 4,undefined,3 years old,english,1200,dirt,moist,1.11.37,71.37
+2024-01-08,bursa,3,handicap 14,undefined,3 years old,english,1400,dirt,moist,1.24.50,84.5
+2024-01-08,bursa,4,handicap 14,undefined,4 years old,arabian,1800,dirt,moist,2.03.83,123.83
+2024-01-08,bursa,5,maiden,female,4 years old,arabian,1400,dirt,moist,1.33.63,93.63
+2024-01-08,bursa,6,handicap 16,female,4 years old and up,english,1200,dirt,moist,1.11.37,71.37
+2024-01-08,bursa,7,condition 5,undefined,4 years old and up,english,1900,dirt,moist,1.57.91,117.91
+2024-01-08,bursa,8,maiden,female,4 years old,arabian,1400,dirt,moist,1.33.63,93.63
+2024-01-08,bursa,9,handicap 15,undefined,4 years old and up,arabian,1200,dirt,moist,1.19.48,79.48
+2024-01-08,şanlıurfa,1,condition 4,undefined,3 years old,english,1700,dirt,good going,1.45.30,105.3
+2024-01-08,şanlıurfa,2,handicap 14,female,4 years old and up,english,2100,dirt,good going,2.13.86,133.86
+2024-01-08,şanlıurfa,3,handicap 15,undefined,4 years old and up,arabian,1200,dirt,good going,1.20.38,80.38
+2024-01-08,şanlıurfa,4,maiden,female,3 years old,english,1400,dirt,good going,1.24.64,84.64
+2024-01-08,şanlıurfa,5,condition 2,undefined,4 years old and up,english,1200,dirt,good going,1.12.03,72.03
+2024-01-08,şanlıurfa,6,condition 4,female,4 years old and up,arabian,1700,dirt,good going,1.56.86,116.86
+2024-01-08,şanlıurfa,7,maiden,female,3 years old,english,1400,dirt,good going,1.24.64,84.64
+2024-01-08,şanlıurfa,8,condition 2,undefined,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-09,adana,1,condition 2,female,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-09,adana,2,handicap 14,undefined,4 years old and up,english,2100,dirt,good going,2.13.41,133.41
+2024-01-09,adana,3,maiden,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-09,adana,4,condition 3,undefined,4 years old,arabian,1300,dirt,good going,1.28.54,88.54
+2024-01-09,adana,5,condition-8,undefined,4 years old and up,arabian,2000,dirt,good going,2.20.77,140.77
+2024-01-09,adana,6,condition 4,female,4 years old and up,english,1900,dirt,good going,2.00.00,120.0
+2024-01-09,adana,7,maiden,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-09,antalya,1,maiden,female,3 years old,english,1200,dirt,wet,1.12.98,72.98
+2024-01-09,antalya,2,handicap 14,undefined,3 years old,english,1400,dirt,wet,1.24.74,84.74
+2024-01-09,antalya,3,condition 4,undefined,4 years old,arabian,1300,dirt (polytrack),wet,1.24.91,84.91
+2024-01-09,antalya,4,handicap 15,female,4 years old and up,english,2000,dirt,wet,2.07.62,127.62
+2024-01-09,antalya,5,g 3,undefined,4 years old and up,english,1700,dirt (polytrack),wet,1.41.46,101.46
+2024-01-09,antalya,6,condition-9,undefined,4 years old and up,arabian,1400,dirt,wet,1.35.03,95.03
+2024-01-09,antalya,7,maiden,female,3 years old,english,1200,dirt,wet,1.12.98,72.98
+2024-01-09,antalya,8,condition 4,undefined,4 years old and up,english,1400,dirt,wet,1.24.74,84.74
+2024-01-09,antalya,9,handicap 14,undefined,4 years old,arabian,1500,dirt (polytrack),wet,1.38.85,98.85
+2024-01-10,i̇stanbul,1,condition 1,undefined,3 years old,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-10,i̇stanbul,2,condition 3,undefined,4 years old and up,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-10,i̇stanbul,3,handicap 15,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-10,i̇stanbul,4,condition 1,undefined,3 years old,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-10,i̇stanbul,5,condition 3,undefined,4 years old and up,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-10,i̇stanbul,6,condition-6,undefined,4 years old and up,english,2100,dirt (polytrack),good going,2.09.15,129.15
+2024-01-10,i̇stanbul,7,condition 3,undefined,3 years old,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-10,i̇stanbul,8,condition 4,female,4 years old and up,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-10,i̇stanbul,9,condition 1,undefined,3 years old,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-10,şanlıurfa,1,maiden,undefined,4 years old,arabian,1700,dirt,good going,1.56.86,116.86
+2024-01-10,şanlıurfa,2,condition 4,undefined,4 years old and up,english,2100,dirt,good going,2.13.86,133.86
+2024-01-10,şanlıurfa,3,handicap 14,undefined,4 years old and up,english,1200,dirt,good going,1.12.03,72.03
+2024-01-10,şanlıurfa,4,maiden,undefined,4 years old,arabian,1700,dirt,good going,1.56.86,116.86
+2024-01-10,şanlıurfa,5,condition 2,undefined,4 years old and up,arabian,2000,dirt,good going,2.20.96,140.96
+2024-01-10,şanlıurfa,6,condition 3,undefined,4 years old and up,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-10,şanlıurfa,7,handicap 13,undefined,3 years old,english,1400,dirt,good going,1.24.64,84.64
+2024-01-10,şanlıurfa,8,condition 3,female,4 years old,arabian,1200,dirt,good going,1.20.38,80.38
+2024-01-11,i̇zmir,1,handicap 14,undefined,4 years old,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-11,i̇zmir,2,maiden,undefined,3 years old,english,1600,dirt,good going,1.38.10,98.1
+2024-01-11,i̇zmir,3,handicap 17,undefined,4 years old and up,arabian,2000,dirt,good going,2.17.95,137.95
+2024-01-11,i̇zmir,4,condition 5,undefined,4 years old and up,english,1400,dirt,good going,1.25.06,85.06
+2024-01-11,i̇zmir,5,condition 5,undefined,3 years old,english,1900,dirt,good going,1.58.31,118.31
+2024-01-11,i̇zmir,6,handicap 15,undefined,4 years old and up,english,1600,dirt,good going,1.38.10,98.1
+2024-01-11,kocaeli,1,condition 4,undefined,4 years old and up,english,2000,dirt,moist,2.07.41,127.41
+2024-01-11,kocaeli,2,maiden,undefined,4 years old,arabian,1500,dirt,moist,1.41.10,101.1
+2024-01-11,kocaeli,3,condition 4,female,3 years old,english,1500,dirt,moist,1.31.23,91.23
+2024-01-11,kocaeli,4,handicap 15,undefined,4 years old and up,english,1200,dirt,moist,1.11.66,71.66
+2024-01-11,kocaeli,5,maiden,undefined,4 years old,arabian,1500,dirt,moist,1.41.10,101.1
+2024-01-11,kocaeli,6,condition 4,undefined,4 years old and up,arabian,2000,dirt,moist,2.19.59,139.59
+2024-01-11,kocaeli,7,handicap 14,undefined,3 years old,english,1400,dirt,moist,1.23.67,83.67
+2024-01-11,kocaeli,8,condition 4,female,4 years old,arabian,1200,dirt,moist,1.19.25,79.25
+2024-01-11,kocaeli,9,handicap 14,undefined,4 years old,arabian,1800,dirt,moist,2.06.23,126.23
+2024-01-12,i̇zmir,1,condition 3,undefined,4 years old and up,english,2200,dirt,good going,2.20.23,140.23
+2024-01-12,i̇zmir,2,sale 1,undefined,4 years old and up,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-12,i̇zmir,3,maiden,undefined,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-12,i̇zmir,4,handicap 14,undefined,3 years old,english,1600,dirt,good going,1.38.10,98.1
+2024-01-12,i̇zmir,5,condition-8,undefined,4 years old and up,arabian,2200,dirt,good going,2.32.28,152.28
+2024-01-12,i̇zmir,6,handicap 15,female,4 years old,arabian,1600,dirt,good going,1.48.55,108.55
+2024-01-12,i̇zmir,7,maiden,undefined,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-12,antalya,1,maiden,undefined,3 years old,english,1400,dirt,good going,1.24.74,84.74
+2024-01-12,antalya,2,handicap 14,undefined,4 years old,arabian,2000,dirt,good going,2.20.96,140.96
+2024-01-12,antalya,3,condition 2,female,4 years old and up,arabian,1300,dirt,good going,1.27.60,87.6
+2024-01-12,antalya,4,condition 4,undefined,4 years old and up,english,2200,dirt,good going,2.21.96,141.96
+2024-01-12,antalya,5,condition 3,undefined,3 years old,english,1700,dirt (polytrack),good going,1.41.46,101.46
+2024-01-12,antalya,6,handicap 15,female,3 years old,english,1200,dirt,good going,1.12.98,72.98
+2024-01-12,antalya,7,handicap 14,undefined,4 years old and up,english,2100,dirt (polytrack),good going,2.08.33,128.33
+2024-01-13,adana,1,condition 3,undefined,4 years old and up,english,1900,dirt,good going,2.00.00,120.0
+2024-01-13,adana,2,handicap 16,undefined,4 years old and up,english,1400,dirt,good going,1.24.53,84.53
+2024-01-13,adana,3,condition 3,undefined,4 years old,arabian,1900,dirt,good going,2.11.74,131.74
+2024-01-13,adana,4,handicap 15,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-13,adana,5,condition 1,undefined,3 years old,english,1300,dirt,good going,1.18.98,78.98
+2024-01-13,adana,6,condition 4,undefined,4 years old and up,arabian,1200,dirt,good going,1.20.89,80.89
+2024-01-13,adana,7,condition-8,undefined,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-13,adana,8,condition 2,undefined,4 years old and up,arabian,2100,dirt,good going,2.29.21,149.21
+2024-01-13,adana,9,condition 1,undefined,3 years old,english,1300,dirt,good going,1.18.98,78.98
+2024-01-13,i̇stanbul,1,maiden,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-13,i̇stanbul,2,condition-6,undefined,4 years old and up,arabian,2200,dirt (polytrack),good going,2.30.12,150.12
+2024-01-13,i̇stanbul,3,maiden,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-13,i̇stanbul,4,handicap 15,undefined,4 years old and up,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-13,i̇stanbul,5,condition 5,undefined,4 years old and up,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-13,i̇stanbul,6,condition-6,undefined,3 years old,english,1300,dirt (polytrack),good going,1.15.99,75.99
+2024-01-13,i̇stanbul,7,condition 5,undefined,4 years old and up,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-13,i̇stanbul,8,handicap 14,female,4 years old,arabian,1200,dirt (polytrack),good going,1.17.90,77.9
+2024-01-14,adana,1,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-14,adana,2,condition 2,undefined,3 years old,english,1900,dirt,good going,2.00.00,120.0
+2024-01-14,adana,3,handicap 14,undefined,4 years old and up,arabian,1300,dirt,good going,1.28.54,88.54
+2024-01-14,adana,4,handicap 14,undefined,4 years old and up,arabian,2000,dirt,good going,2.20.77,140.77
+2024-01-14,adana,5,handicap 15,female,4 years old and up,english,1900,dirt,good going,2.00.00,120.0
+2024-01-14,adana,6,handicap 14,female,3 years old,english,1400,dirt,good going,1.24.53,84.53
+2024-01-14,adana,7,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-14,adana,8,handicap 14,undefined,4 years old,arabian,1900,dirt,good going,2.11.74,131.74
+2024-01-14,i̇zmir,1,handicap 13,undefined,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-14,i̇zmir,2,maiden,female,4 years old,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-14,i̇zmir,3,condition 3,undefined,4 years old,arabian,1900,dirt,good going,2.10.52,130.52
+2024-01-14,i̇zmir,4,handicap 15,undefined,4 years old and up,arabian,2200,dirt,good going,2.32.28,152.28
+2024-01-14,i̇zmir,5,handicap 14,undefined,4 years old and up,english,2100,dirt,good going,2.12.31,132.31
+2024-01-14,i̇zmir,6,condition-8,undefined,3 years old,english,1600,dirt,good going,1.38.10,98.1
+2024-01-14,i̇zmir,7,condition-8,undefined,4 years old and up,english,1600,dirt,good going,1.38.10,98.1
+2024-01-14,i̇zmir,8,handicap 16,undefined,4 years old and up,arabian,1600,dirt,good going,1.48.55,108.55
+2024-01-14,i̇zmir,9,maiden,female,4 years old,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-15,bursa,1,maiden,female,3 years old,english,1400,dirt,good going,1.24.50,84.5
+2024-01-15,bursa,2,condition 4,female,4 years old and up,arabian,1900,dirt,good going,2.11.51,131.51
+2024-01-15,bursa,3,condition 3,undefined,3 years old,english,1800,dirt,good going,1.53.11,113.11
+2024-01-15,bursa,4,handicap 17,undefined,4 years old and up,english,1800,dirt,good going,1.53.11,113.11
+2024-01-15,bursa,5,condition 3,undefined,4 years old and up,arabian,1400,dirt,good going,1.33.63,93.63
+2024-01-15,bursa,6,condition-6,undefined,4 years old and up,english,1300,dirt,good going,1.18.11,78.11
+2024-01-15,bursa,7,condition 4,undefined,4 years old and up,english,1400,dirt,good going,1.24.50,84.5
+2024-01-15,bursa,8,maiden,female,3 years old,english,1400,dirt,good going,1.24.50,84.5
+2024-01-15,bursa,9,handicap 14,undefined,4 years old,arabian,1400,dirt,good going,1.33.63,93.63
+2024-01-15,şanlıurfa,1,maiden,undefined,3 years old,english,1200,dirt,moist,1.12.03,72.03
+2024-01-15,şanlıurfa,2,condition 2,undefined,4 years old and up,english,1700,dirt,moist,1.45.30,105.3
+2024-01-15,şanlıurfa,3,condition 4,undefined,3 years old,english,1400,dirt,moist,1.24.64,84.64
+2024-01-15,şanlıurfa,4,maiden,undefined,3 years old,english,1200,dirt,moist,1.12.03,72.03
+2024-01-15,şanlıurfa,5,handicap 16,undefined,4 years old and up,arabian,2100,dirt,moist,2.30.01,150.01
+2024-01-15,şanlıurfa,6,condition 5,undefined,4 years old and up,arabian,1400,dirt,moist,1.35.56,95.56
+2024-01-15,şanlıurfa,7,handicap 13,undefined,4 years old and up,arabian,1400,dirt,moist,1.35.56,95.56
+2024-01-15,şanlıurfa,8,maiden,undefined,3 years old,english,1200,dirt,moist,1.12.03,72.03
+2024-01-15,şanlıurfa,9,handicap 16,undefined,4 years old and up,english,1400,dirt,moist,1.24.64,84.64
+2024-01-16,adana,1,handicap 21,undefined,4 years old and up,english,1400,dirt,wet,1.24.53,84.53
+2024-01-16,adana,2,handicap 21,undefined,4 years old and up,arabian,1900,dirt,wet,2.11.74,131.74
+2024-01-16,adana,3,maiden,undefined,3 years old,english,1900,dirt,wet,2.00.00,120.0
+2024-01-16,adana,4,condition 3,female,3 years old,english,1900,dirt,wet,2.00.00,120.0
+2024-01-16,adana,5,condition-6,undefined,4 years old and up,arabian,1400,dirt,wet,1.34.68,94.68
+2024-01-16,adana,6,condition 2,female,4 years old and up,english,1400,dirt,wet,1.24.53,84.53
+2024-01-16,adana,7,maiden,undefined,3 years old,english,1900,dirt,wet,2.00.00,120.0
+2024-01-16,antalya,1,maiden,undefined,4 years old,arabian,1200,dirt (polytrack),good going,1.18.22,78.22
+2024-01-16,antalya,2,handicap 14,undefined,4 years old,arabian,1300,dirt,good going,1.27.60,87.6
+2024-01-16,antalya,3,condition 4,undefined,3 years old,english,1400,dirt,good going,1.24.74,84.74
+2024-01-16,antalya,4,handicap 16,undefined,4 years old and up,arabian,2100,dirt (polytrack),good going,2.22.75,142.75
+2024-01-16,antalya,5,maiden,undefined,4 years old,arabian,1200,dirt (polytrack),good going,1.18.22,78.22
+2024-01-16,antalya,6,condition 4,undefined,4 years old and up,english,1200,dirt (polytrack),good going,1.10.19,70.19
+2024-01-16,antalya,7,condition 4,undefined,4 years old and up,arabian,1600,dirt (polytrack),good going,1.44.60,104.6
+2024-01-16,antalya,8,maiden,undefined,4 years old,arabian,1200,dirt (polytrack),good going,1.18.22,78.22
+2024-01-16,antalya,9,handicap 14,undefined,4 years old and up,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-17,i̇stanbul,1,handicap 14,undefined,3 years old,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-17,i̇stanbul,2,sale 3,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-17,i̇stanbul,3,handicap 21,undefined,4 years old and up,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-17,i̇stanbul,4,condition 3,undefined,4 years old,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-17,i̇stanbul,5,maiden,female,4 years old,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-17,i̇stanbul,6,condition 3,undefined,4 years old and up,english,2200,dirt (polytrack),good going,2.15.50,135.5
+2024-01-17,i̇stanbul,7,maiden,female,4 years old,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-17,i̇stanbul,8,handicap 15,female,4 years old and up,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-17,şanlıurfa,1,maiden,female,4 years old,arabian,1300,dirt,moist,1.28.82,88.82
+2024-01-17,şanlıurfa,2,condition 2,undefined,4 years old and up,arabian,1200,dirt,moist,1.20.38,80.38
+2024-01-17,şanlıurfa,3,handicap 14,female,3 years old,english,1200,dirt,moist,1.12.03,72.03
+2024-01-17,şanlıurfa,4,maiden,female,4 years old,arabian,1300,dirt,moist,1.28.82,88.82
+2024-01-17,şanlıurfa,5,condition 4,undefined,4 years old and up,arabian,1900,dirt,moist,2.14.28,134.28
+2024-01-17,şanlıurfa,6,condition 3,undefined,4 years old,arabian,1800,dirt,moist,2.04.78,124.78
+2024-01-17,şanlıurfa,7,handicap 16,undefined,4 years old and up,english,2000,dirt,moist,2.07.98,127.98
+2024-01-18,i̇zmir,1,maiden,undefined,4 years old,arabian,1900,dirt,moist,2.10.52,130.52
+2024-01-18,i̇zmir,2,condition-6,female,3 years old,english,1400,dirt,moist,1.25.06,85.06
+2024-01-18,i̇zmir,3,condition-8,undefined,4 years old and up,english,2100,dirt,moist,2.12.31,132.31
+2024-01-18,i̇zmir,4,condition 4,female,4 years old,arabian,1900,dirt,moist,2.10.52,130.52
+2024-01-18,i̇zmir,5,condition 4,undefined,4 years old and up,arabian,1600,dirt,moist,1.48.55,108.55
+2024-01-18,i̇zmir,6,handicap 15,female,4 years old and up,english,2000,dirt,moist,2.05.51,125.51
+2024-01-18,kocaeli,1,maiden,undefined,3 years old,english,1500,dirt,good going,1.31.23,91.23
+2024-01-18,kocaeli,2,condition 4,undefined,3 years old,english,1200,dirt,good going,1.11.66,71.66
+2024-01-18,kocaeli,3,condition 4,female,4 years old and up,arabian,1500,dirt,good going,1.41.10,101.1
+2024-01-18,kocaeli,4,handicap 14,undefined,4 years old and up,arabian,2000,dirt,good going,2.19.59,139.59
+2024-01-18,kocaeli,5,handicap 16,undefined,4 years old and up,english,1900,dirt,good going,1.59.75,119.75
+2024-01-18,kocaeli,6,condition 4,undefined,4 years old,arabian,1400,dirt,good going,1.33.64,93.64
+2024-01-18,kocaeli,7,condition 4,undefined,4 years old and up,english,1500,dirt,good going,1.31.23,91.23
+2024-01-18,kocaeli,8,maiden,undefined,3 years old,english,1500,dirt,good going,1.31.23,91.23
+2024-01-18,kocaeli,9,handicap 17,undefined,4 years old and up,arabian,1500,dirt,good going,1.41.10,101.1
+2024-01-19,i̇zmir,1,handicap 17,undefined,4 years old and up,english,1900,dirt,good going,1.58.31,118.31
+2024-01-19,i̇zmir,2,maiden,undefined,3 years old,english,1900,dirt,good going,1.58.31,118.31
+2024-01-19,i̇zmir,3,condition 3,undefined,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-19,i̇zmir,4,condition 4,undefined,4 years old,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-19,i̇zmir,5,handicap 14,female,4 years old and up,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-19,i̇zmir,6,sale 1,undefined,4 years old and up,english,1400,dirt,good going,1.25.06,85.06
+2024-01-19,antalya,1,condition 3,undefined,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-19,antalya,2,maiden,undefined,3 years old,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-19,antalya,3,condition 5,undefined,3 years old,english,1300,dirt (polytrack),good going,1.16.58,76.58
+2024-01-19,antalya,4,handicap 14,undefined,3 years old,english,1200,dirt (polytrack),good going,1.10.19,70.19
+2024-01-19,antalya,5,handicap 15,undefined,4 years old and up,arabian,1500,dirt (polytrack),good going,1.38.85,98.85
+2024-01-19,antalya,6,maiden,undefined,3 years old,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-19,antalya,7,handicap 14,undefined,4 years old and up,english,1200,dirt,good going,1.12.98,72.98
+2024-01-19,antalya,8,maiden,undefined,3 years old,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-19,antalya,9,condition 3,undefined,4 years old and up,english,2100,dirt (polytrack),good going,2.08.33,128.33
+2024-01-20,adana,1,maiden,undefined,4 years old,arabian,1900,dirt,moist,2.11.74,131.74
+2024-01-20,adana,2,condition 4,female,4 years old and up,arabian,2000,dirt,moist,2.20.77,140.77
+2024-01-20,adana,3,maiden,undefined,4 years old,arabian,1900,dirt,moist,2.11.74,131.74
+2024-01-20,adana,4,handicap 17,undefined,4 years old and up,english,2100,dirt,moist,2.13.41,133.41
+2024-01-20,adana,5,sale 2,undefined,4 years old and up,arabian,1200,dirt,moist,1.20.89,80.89
+2024-01-20,adana,6,condition-8,undefined,4 years old,arabian,1400,dirt,moist,1.34.68,94.68
+2024-01-20,adana,7,condition-7,female,4 years old and up,english,1400,dirt,moist,1.24.53,84.53
+2024-01-20,adana,8,condition 5,undefined,3 years old,english,1900,dirt,moist,2.00.00,120.0
+2024-01-20,adana,9,handicap 16,undefined,4 years old and up,arabian,1400,dirt,moist,1.34.68,94.68
+2024-01-20,i̇stanbul,1,handicap 14,female,3 years old,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-20,i̇stanbul,2,maiden,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-20,i̇stanbul,3,condition 4,undefined,4 years old,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-20,i̇stanbul,4,handicap 16,undefined,4 years old and up,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-20,i̇stanbul,5,handicap 14,undefined,4 years old,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-20,i̇stanbul,6,condition-6,female,4 years old and up,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-20,i̇stanbul,7,handicap 21,undefined,4 years old and up,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-20,i̇stanbul,8,maiden,undefined,3 years old,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-20,i̇stanbul,9,condition 3,female,4 years old and up,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-21,adana,1,maiden,female,4 years old,arabian,1400,dirt,wet,1.34.68,94.68
+2024-01-21,adana,2,handicap 14,undefined,3 years old,english,1200,dirt,wet,1.12.20,72.2
+2024-01-21,adana,3,handicap 15,female,4 years old and up,english,1200,dirt,wet,1.12.20,72.2
+2024-01-21,adana,4,condition 4,undefined,3 years old,english,1300,dirt,wet,1.18.98,78.98
+2024-01-21,adana,5,condition-6,undefined,4 years old and up,english,1400,dirt,wet,1.24.53,84.53
+2024-01-21,adana,6,condition 3,undefined,4 years old and up,arabian,1300,dirt,wet,1.28.54,88.54
+2024-01-21,adana,7,maiden,female,4 years old,arabian,1400,dirt,wet,1.34.68,94.68
+2024-01-21,i̇zmir,1,handicap 14,undefined,4 years old,arabian,1900,dirt,good going,2.10.52,130.52
+2024-01-21,i̇zmir,2,condition 5,undefined,4 years old and up,english,1900,dirt,good going,1.58.31,118.31
+2024-01-21,i̇zmir,3,handicap 15,female,4 years old and up,arabian,1900,dirt,good going,2.10.52,130.52
+2024-01-21,i̇zmir,4,handicap 21,undefined,4 years old and up,english,1400,dirt,good going,1.25.06,85.06
+2024-01-21,i̇zmir,5,condition 1,undefined,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-21,i̇zmir,6,condition-6,undefined,4 years old and up,arabian,1900,dirt,good going,2.10.52,130.52
+2024-01-21,i̇zmir,7,condition 5,undefined,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-21,i̇zmir,8,handicap 14,undefined,4 years old and up,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-21,i̇zmir,9,condition 1,undefined,3 years old,english,1400,dirt,good going,1.25.06,85.06
+2024-01-22,bursa,1,handicap 15,undefined,3 years old,english,1200,dirt,good going,1.11.37,71.37
+2024-01-22,bursa,2,condition 3,female,4 years old and up,english,1900,dirt,good going,1.57.91,117.91
+2024-01-22,bursa,3,condition 5,female,3 years old,english,1800,dirt,good going,1.53.11,113.11
+2024-01-22,bursa,4,handicap 15,undefined,4 years old and up,arabian,1900,dirt,good going,2.11.51,131.51
+2024-01-22,bursa,5,maiden,undefined,4 years old,arabian,1200,dirt,good going,1.19.48,79.48
+2024-01-22,bursa,6,condition 3,female,4 years old,arabian,1300,dirt,good going,1.27.09,87.09
+2024-01-22,bursa,7,condition-6,undefined,4 years old and up,arabian,1800,dirt,good going,2.03.83,123.83
+2024-01-22,bursa,8,maiden,undefined,4 years old,arabian,1200,dirt,good going,1.19.48,79.48
+2024-01-22,bursa,9,handicap 14,undefined,4 years old and up,english,1400,dirt,good going,1.24.50,84.5
+2024-01-22,şanlıurfa,1,condition 4,undefined,4 years old,arabian,1200,dirt,good going,1.20.38,80.38
+2024-01-22,şanlıurfa,2,maiden,undefined,3 years old,english,1700,dirt,good going,1.45.30,105.3
+2024-01-22,şanlıurfa,3,condition 5,undefined,4 years old and up,english,1400,dirt,good going,1.24.64,84.64
+2024-01-22,şanlıurfa,4,maiden,undefined,3 years old,english,1700,dirt,good going,1.45.30,105.3
+2024-01-22,şanlıurfa,5,handicap 14,undefined,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-22,şanlıurfa,6,handicap 13,undefined,4 years old and up,english,1900,dirt,good going,1.59.89,119.89
+2024-01-22,şanlıurfa,7,condition 4,female,3 years old,english,1400,dirt,good going,1.24.64,84.64
+2024-01-22,şanlıurfa,8,handicap 15,undefined,4 years old and up,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-22,şanlıurfa,9,handicap 13,undefined,4 years old and up,arabian,1800,dirt,good going,2.04.78,124.78
+2024-01-23,adana,1,condition 4,undefined,4 years old,arabian,1400,dirt,wet,1.34.68,94.68
+2024-01-23,adana,2,sale 1,undefined,3 years old,english,1400,dirt,wet,1.24.53,84.53
+2024-01-23,adana,3,handicap 15,undefined,4 years old and up,english,2000,dirt,wet,2.06.32,126.32
+2024-01-23,adana,4,condition 4,female,3 years old,english,1200,dirt,wet,1.12.20,72.2
+2024-01-23,adana,5,condition 3,undefined,4 years old and up,english,1300,dirt,wet,1.18.98,78.98
+2024-01-23,adana,6,handicap 14,female,4 years old,arabian,1200,dirt,wet,1.20.89,80.89
+2024-01-23,antalya,1,condition 1,undefined,3 years old,english,1400,dirt,good going,1.24.74,84.74
+2024-01-23,antalya,2,condition 4,female,3 years old,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-23,antalya,3,handicap 15,undefined,4 years old and up,arabian,2000,dirt,good going,2.20.96,140.96
+2024-01-23,antalya,4,sale 2,undefined,4 years old and up,english,2000,dirt,good going,2.07.62,127.62
+2024-01-23,antalya,5,condition 3,undefined,4 years old,arabian,1700,dirt (polytrack),good going,1.54.23,114.23
+2024-01-23,antalya,6,condition-6,undefined,4 years old and up,arabian,1200,dirt,good going,1.20.28,80.28
+2024-01-23,antalya,7,condition 1,undefined,3 years old,english,1400,dirt,good going,1.24.74,84.74
+2024-01-23,antalya,8,condition 3,female,4 years old and up,english,1300,dirt,good going,1.19.41,79.41
+2024-01-24,i̇stanbul,1,handicap 15,undefined,4 years old and up,arabian,1200,dirt (polytrack),good going,1.17.90,77.9
+2024-01-24,i̇stanbul,2,handicap 16,undefined,4 years old and up,english,1500,dirt (polytrack),good going,1.28.19,88.19
+2024-01-24,i̇stanbul,3,maiden,undefined,4 years old,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-24,i̇stanbul,4,condition 4,undefined,3 years old,english,1200,dirt (polytrack),good going,1.09.93,69.93
+2024-01-24,i̇stanbul,5,condition 3,undefined,4 years old and up,arabian,2100,dirt (polytrack),good going,2.22.28,142.28
+2024-01-24,i̇stanbul,6,condition 4,female,4 years old,arabian,1500,dirt (polytrack),good going,1.37.40,97.4
+2024-01-24,şanlıurfa,1,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-24,şanlıurfa,2,handicap 15,female,4 years old and up,english,1300,dirt,good going,1.19.29,79.29
+2024-01-24,şanlıurfa,3,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-24,şanlıurfa,4,handicap 15,female,4 years old and up,arabian,1900,dirt,good going,2.14.28,134.28
+2024-01-24,şanlıurfa,5,condition 3,undefined,3 years old,english,1800,dirt,good going,1.54.70,114.7
+2024-01-24,şanlıurfa,6,condition-6,undefined,4 years old and up,english,2000,dirt,good going,2.07.98,127.98
+2024-01-24,şanlıurfa,7,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-24,şanlıurfa,8,handicap 14,undefined,3 years old,english,1200,dirt,good going,1.12.03,72.03
+2024-01-25,i̇zmir,1,condition 4,undefined,4 years old and up,english,1600,dirt,good going,1.38.10,98.1
+2024-01-25,i̇zmir,2,handicap 14,female,3 years old,english,1600,dirt,good going,1.38.10,98.1
+2024-01-25,i̇zmir,3,maiden,undefined,4 years old,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-25,i̇zmir,4,handicap 16,female,4 years old and up,english,1600,dirt,good going,1.38.10,98.1
+2024-01-25,i̇zmir,5,condition-6,female,4 years old and up,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-25,i̇zmir,6,handicap 15,undefined,4 years old,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-25,i̇zmir,7,maiden,undefined,4 years old,arabian,1200,dirt,good going,1.19.36,79.36
+2024-01-25,kocaeli,1,condition 5,undefined,4 years old and up,arabian,1800,dirt,good going,2.06.23,126.23
+2024-01-25,kocaeli,2,condition 3,undefined,4 years old and up,english,1800,dirt,good going,1.53.68,113.68
+2024-01-25,kocaeli,3,condition 5,undefined,4 years old and up,english,2000,dirt,good going,2.07.41,127.41
+2024-01-25,kocaeli,4,maiden,female,4 years old,arabian,1400,dirt,good going,1.33.64,93.64
+2024-01-25,kocaeli,5,handicap 16,undefined,4 years old and up,english,1200,dirt,good going,1.11.66,71.66
+2024-01-25,kocaeli,6,handicap 15,undefined,3 years old,english,1800,dirt,good going,1.53.68,113.68
+2024-01-25,kocaeli,7,condition-7,undefined,4 years old and up,arabian,1400,dirt,good going,1.33.64,93.64
+2024-01-25,kocaeli,8,maiden,female,4 years old,arabian,1400,dirt,good going,1.33.64,93.64
+2024-01-25,kocaeli,9,handicap 14,undefined,4 years old,arabian,1500,dirt,good going,1.41.10,101.1
+2024-01-26,i̇zmir,1,condition-6,female,4 years old and up,english,1200,dirt,good going,1.11.59,71.59
+2024-01-26,i̇zmir,2,sale 1,undefined,3 years old,english,1600,dirt,good going,1.38.10,98.1
+2024-01-26,i̇zmir,3,handicap 15,undefined,3 years old,english,1900,dirt,good going,1.58.31,118.31
+2024-01-26,i̇zmir,4,condition-8,undefined,4 years old,arabian,1600,dirt,good going,1.48.55,108.55
+2024-01-26,i̇zmir,5,condition 3,undefined,4 years old and up,arabian,1900,dirt,good going,2.10.52,130.52
+2024-01-26,i̇zmir,6,condition 3,undefined,4 years old and up,english,2000,dirt,good going,2.05.51,125.51
+2024-01-26,antalya,1,handicap 15,undefined,4 years old and up,english,2000,dirt,good going,2.07.62,127.62
+2024-01-26,antalya,2,condition 3,undefined,4 years old,arabian,2000,dirt,good going,2.20.96,140.96
+2024-01-26,antalya,3,condition 4,undefined,3 years old,english,2000,dirt,good going,2.07.62,127.62
+2024-01-26,antalya,4,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-26,antalya,5,condition-8,undefined,4 years old and up,english,1400,dirt,good going,1.24.74,84.74
+2024-01-26,antalya,6,condition-8,undefined,4 years old and up,arabian,2100,dirt (polytrack),good going,2.22.75,142.75
+2024-01-26,antalya,7,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-26,antalya,8,handicap 14,female,4 years old and up,arabian,1400,dirt (polytrack),good going,1.31.84,91.84
+2024-01-27,adana,1,condition 4,female,4 years old and up,english,2000,dirt,moist,2.06.32,126.32
+2024-01-27,adana,2,sale 1,undefined,4 years old and up,english,1900,dirt,moist,2.00.00,120.0
+2024-01-27,adana,3,condition 3,undefined,4 years old and up,arabian,1900,dirt,moist,2.11.74,131.74
+2024-01-27,adana,4,handicap 15,female,4 years old and up,arabian,1300,dirt,moist,1.28.54,88.54
+2024-01-27,adana,5,maiden,female,3 years old,english,1400,dirt,moist,1.24.53,84.53
+2024-01-27,adana,6,condition-6,undefined,3 years old,english,1300,dirt,moist,1.18.98,78.98
+2024-01-27,adana,7,handicap 14,undefined,3 years old,english,1900,dirt,moist,2.00.00,120.0
+2024-01-27,adana,8,condition 4,undefined,4 years old,arabian,1900,dirt,moist,2.11.74,131.74
+2024-01-27,adana,9,maiden,female,3 years old,english,1400,dirt,moist,1.24.53,84.53
+2024-01-27,i̇stanbul,1,handicap 15,undefined,3 years old,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-27,i̇stanbul,2,maiden,undefined,3 years old,english,1200,dirt (polytrack),good going,1.09.93,69.93
+2024-01-27,i̇stanbul,3,handicap 21,undefined,4 years old and up,arabian,2000,dirt (polytrack),good going,2.14.92,134.92
+2024-01-27,i̇stanbul,4,handicap 15,female,4 years old and up,english,2100,dirt (polytrack),good going,2.09.15,129.15
+2024-01-27,i̇stanbul,5,maiden,undefined,3 years old,english,1200,dirt (polytrack),good going,1.09.93,69.93
+2024-01-27,i̇stanbul,6,condition 5,female,3 years old,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-27,i̇stanbul,7,condition 3,undefined,4 years old and up,arabian,1300,dirt (polytrack),good going,1.23.86,83.86
+2024-01-27,i̇stanbul,8,sale 2,undefined,4 years old and up,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-28,adana,1,condition 3,undefined,3 years old,english,1900,dirt,good going,2.00.00,120.0
+2024-01-28,adana,2,condition 2,undefined,4 years old and up,english,2100,dirt,good going,2.13.41,133.41
+2024-01-28,adana,3,condition 2,undefined,4 years old and up,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-28,adana,4,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-28,adana,5,condition-6,undefined,4 years old and up,arabian,2000,dirt,good going,2.20.77,140.77
+2024-01-28,adana,6,handicap 14,undefined,4 years old and up,english,1400,dirt,good going,1.24.53,84.53
+2024-01-28,adana,7,maiden,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-28,adana,8,handicap 16,undefined,4 years old and up,arabian,2100,dirt,good going,2.29.21,149.21
+2024-01-28,i̇zmir,1,handicap 13,undefined,3 years old,english,1600,dirt,good going,1.38.10,98.1
+2024-01-28,i̇zmir,2,condition 4,undefined,3 years old,english,1900,dirt,good going,1.58.31,118.31
+2024-01-28,i̇zmir,3,condition 5,female,4 years old,arabian,1400,dirt,good going,1.32.97,92.97
+2024-01-28,i̇zmir,4,handicap 15,undefined,4 years old and up,english,2000,dirt,good going,2.05.51,125.51
+2024-01-28,i̇zmir,5,maiden,female,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-28,i̇zmir,6,g 3,undefined,4 years old and up,arabian,1600,dirt,good going,1.48.55,108.55
+2024-01-28,i̇zmir,7,condition-8,undefined,4 years old and up,english,1400,dirt,good going,1.25.06,85.06
+2024-01-28,i̇zmir,8,handicap 16,undefined,4 years old and up,arabian,2000,dirt,good going,2.17.95,137.95
+2024-01-28,i̇zmir,9,maiden,female,3 years old,english,1200,dirt,good going,1.11.59,71.59
+2024-01-29,bursa,1,handicap 14,undefined,4 years old and up,arabian,1400,dirt,moist,1.33.63,93.63
+2024-01-29,bursa,2,maiden,undefined,3 years old,english,1300,dirt,moist,1.18.11,78.11
+2024-01-29,bursa,3,handicap 15,female,4 years old and up,english,1800,dirt,moist,1.53.11,113.11
+2024-01-29,bursa,4,maiden,undefined,3 years old,english,1300,dirt,moist,1.18.11,78.11
+2024-01-29,bursa,5,handicap 14,female,3 years old,english,1400,dirt,moist,1.24.50,84.5
+2024-01-29,bursa,6,condition-6,undefined,4 years old and up,english,2000,dirt,moist,2.06.06,126.06
+2024-01-29,bursa,7,condition-6,undefined,3 years old,english,1400,dirt,moist,1.24.50,84.5
+2024-01-29,bursa,8,condition 5,undefined,4 years old and up,arabian,1300,dirt,moist,1.27.09,87.09
+2024-01-29,bursa,9,handicap 15,undefined,4 years old,arabian,1800,dirt,moist,2.03.83,123.83
+2024-01-29,şanlıurfa,1,condition 4,female,4 years old and up,english,2000,dirt,good going,2.07.98,127.98
+2024-01-29,şanlıurfa,2,handicap 16,undefined,4 years old and up,english,1300,dirt,good going,1.19.29,79.29
+2024-01-29,şanlıurfa,3,maiden,female,3 years old,english,1700,dirt,good going,1.45.30,105.3
+2024-01-29,şanlıurfa,4,condition 3,undefined,4 years old and up,arabian,1700,dirt,good going,1.56.86,116.86
+2024-01-29,şanlıurfa,5,maiden,female,3 years old,english,1700,dirt,good going,1.45.30,105.3
+2024-01-29,şanlıurfa,6,condition-8,undefined,4 years old and up,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-29,şanlıurfa,7,condition 4,undefined,3 years old,english,1300,dirt,good going,1.19.29,79.29
+2024-01-29,şanlıurfa,8,condition 3,undefined,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-29,şanlıurfa,9,handicap 14,female,4 years old,arabian,1700,dirt,good going,1.56.86,116.86
+2024-01-30,adana,1,handicap 15,female,3 years old,english,1900,dirt,good going,2.00.00,120.0
+2024-01-30,adana,2,handicap 14,undefined,4 years old,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-30,adana,3,maiden,undefined,3 years old,english,1200,dirt,good going,1.12.20,72.2
+2024-01-30,adana,4,handicap 17,undefined,4 years old and up,english,1200,dirt,good going,1.12.20,72.2
+2024-01-30,adana,5,condition-8,undefined,4 years old and up,english,1900,dirt,good going,2.00.00,120.0
+2024-01-30,adana,6,condition-6,female,4 years old and up,arabian,1400,dirt,good going,1.34.68,94.68
+2024-01-30,adana,7,maiden,undefined,3 years old,english,1200,dirt,good going,1.12.20,72.2
+2024-01-30,antalya,1,maiden,undefined,4 years old,arabian,1700,dirt (polytrack),good going,1.54.23,114.23
+2024-01-30,antalya,2,handicap 15,undefined,3 years old,english,2000,dirt (polytrack),good going,2.02.48,122.48
+2024-01-30,antalya,3,maiden,undefined,4 years old,arabian,1700,dirt (polytrack),good going,1.54.23,114.23
+2024-01-30,antalya,4,handicap 15,undefined,4 years old and up,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-30,antalya,5,handicap 15,female,4 years old,arabian,1400,dirt,good going,1.35.03,95.03
+2024-01-30,antalya,6,condition-7,female,3 years old,english,1400,dirt,good going,1.24.74,84.74
+2024-01-30,antalya,7,condition 3,undefined,4 years old and up,english,1400,dirt,good going,1.24.74,84.74
+2024-01-30,antalya,8,handicap 14,female,4 years old and up,english,1400,dirt (polytrack),good going,1.23.31,83.31
+2024-01-31,i̇stanbul,1,maiden,female,3 years old,english,1300,dirt (polytrack),good going,1.15.99,75.99
+2024-01-31,i̇stanbul,2,condition 4,undefined,4 years old and up,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-31,i̇stanbul,3,condition 4,undefined,3 years old,english,2000,dirt (polytrack),good going,2.00.81,120.81
+2024-01-31,i̇stanbul,4,maiden,female,3 years old,english,1300,dirt (polytrack),good going,1.15.99,75.99
+2024-01-31,i̇stanbul,5,handicap 15,female,4 years old and up,arabian,2100,dirt (polytrack),good going,2.22.28,142.28
+2024-01-31,i̇stanbul,6,condition-8,undefined,4 years old and up,english,1400,dirt (polytrack),good going,1.22.25,82.25
+2024-01-31,i̇stanbul,7,handicap 15,undefined,4 years old,arabian,1200,dirt (polytrack),good going,1.17.90,77.9
+2024-01-31,i̇stanbul,8,maiden,female,3 years old,english,1300,dirt (polytrack),good going,1.15.99,75.99
+2024-01-31,i̇stanbul,9,condition 3,undefined,4 years old,arabian,1400,dirt (polytrack),good going,1.31.22,91.22
+2024-01-31,şanlıurfa,1,maiden,undefined,3 years old,english,1300,dirt,good going,1.19.29,79.29
+2024-01-31,şanlıurfa,2,condition 4,undefined,4 years old and up,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-31,şanlıurfa,3,handicap 14,undefined,4 years old and up,arabian,1900,dirt,good going,2.14.28,134.28
+2024-01-31,şanlıurfa,4,handicap 15,undefined,4 years old and up,english,2100,dirt,good going,2.13.86,133.86
+2024-01-31,şanlıurfa,5,condition 2,female,4 years old,arabian,1400,dirt,good going,1.35.56,95.56
+2024-01-31,şanlıurfa,6,maiden,undefined,3 years old,english,1300,dirt,good going,1.19.29,79.29
+2024-01-31,şanlıurfa,7,condition 3,undefined,4 years old and up,english,1300,dirt,good going,1.19.29,79.29
+2024-01-31,şanlıurfa,8,handicap 14,undefined,4 years old,arabian,1700,dirt,good going,1.56.86,116.86
