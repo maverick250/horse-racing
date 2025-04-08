@@ -15,6 +15,7 @@ This repository documents the development and evaluation of machine learning mod
 
 ## Repository Structure
 
+```bash
 horse-racing/
 ├── README.md                   # This file.
 ├── cleaned_race_details.csv    # Processed race details.
@@ -22,6 +23,7 @@ horse-racing/
 ├── eda.ipynb                   # Exploratory Data Analysis notebook.
 ├── model_development.ipynb     # Notebook for model training and evaluation.
 └── report.pdf                  # Detailed technical report.
+```
 
 *Note: The report provides a comprehensive overview of the methodology, including background, problem statement, experimental setup, and evaluation metrics.*
 
